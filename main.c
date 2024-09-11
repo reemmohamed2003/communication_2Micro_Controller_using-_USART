@@ -1,6 +1,6 @@
 /*
  * communicatio 2micro controller.c
- *
+ * trnsmit mc2
  * Created: 9/12/2024 1:19:46 AM
  * Author : Al-Arab
  */ 
